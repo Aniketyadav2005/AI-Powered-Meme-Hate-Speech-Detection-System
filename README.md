@@ -1,5 +1,11 @@
 # 🛡️ Meme Hate Speech Detector — Upgraded
 
+<img width="950" height="442" alt="Screenshot 2026-05-14 232035" src="https://github.com/user-attachments/assets/fa1dcd26-2ea6-447f-8f78-01121d10f335" />
+
+<img width="948" height="449" alt="Screenshot 2026-05-14 232717" src="https://github.com/user-attachments/assets/6cb5444a-cfa4-4bd3-98d1-6704d53920c4" />
+
+
+
 A powerful Streamlit web app that detects hate speech in memes using AI-powered image captioning, OCR text extraction, and a RoBERTa hate-speech classifier.
 
 ## ✨ New Features (v2)
