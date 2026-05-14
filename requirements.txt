@@ -1,0 +1,8 @@
+streamlit
+transformers
+requests
+Pillow
+torch
+numpy
+easyocr
+reportlab
